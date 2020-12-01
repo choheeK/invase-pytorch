@@ -1,4 +1,4 @@
-# INVASE () Pytorch :
+# INVASE (Instance-wise Variable Selection) Pytorch :
 
 INVASE[1] is a highly flexible feature selection framework. Given a sample from the dataset, INVASE model tries to select features that are most predictive for the given task on the instance level. Here we give a PyTorch implementation of the INVASE. Original implementation can be found in: https://github.com/jsyoon0823/INVASE<br>
 
